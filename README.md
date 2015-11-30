@@ -4,3 +4,6 @@ This is pretty much ripped from  the [multiparty examples](https://github.com/an
 
 ## USAGE
 `node server.js --harmony`
+
+## TEST
+Use the included `test_upload.sh` to send a curl request to your localhost. (Hacky but oh well.)
